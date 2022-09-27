@@ -22,7 +22,7 @@ printf "%s\n" "$change_mac"
 printf "%s\n" "$wlanUP"
 printf "%s\n" "$verify"
 
-printf "%s\n" "To return to permanent mac address type 'macchanger --permanent <interface name>
+printf "%s\n" "To return to permanent mac address type 'macchanger --permanent <interface name>"
 
 printf "%s\n" "$network_connect"
 
